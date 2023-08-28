@@ -8,6 +8,8 @@ Repo directories by topic:
 
 ### 0. Search:
 [Degrees](degrees)
+
+[Tic-Tac-Toe](tictactoe)
 ### 1. Knowledge:
 [Knights](knights)
 
@@ -24,3 +26,8 @@ Repo directories by topic:
 [Nim](nim)
 ### 5. Neural Networks:
 [Traffic](traffic)
+
+### 6. Language:
+[Parser](parser)
+
+[Questions](questions)
