@@ -18,6 +18,7 @@ Repo directories by topic:
 [PageRank](pagerank)
 
 [Heredity](heredity)
+
 ### 3. Optimization:
 [Crossword](crossword)
 ### 4. Learning:
@@ -31,3 +32,8 @@ Repo directories by topic:
 [Parser](parser)
 
 [Questions](questions)
+
+### Certificate
+
+[CS50 AI Certificate](https://github.com/LeDuyAnh90/CS50-Introduction-to-AI/files/12715077/CS50AI.pdf)
+
