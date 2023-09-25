@@ -35,5 +35,6 @@ Repo directories by topic:
 
 ### Certificate
 
-[CS50 AI Certificate](https://github.com/LeDuyAnh90/CS50-Introduction-to-AI/files/12715077/CS50AI.pdf)
+![CS50AI](https://github.com/LeDuyAnh90/CS50-Introduction-to-AI/assets/45839758/dc89b953-a66e-432f-a657-3a660561e240)
+
 
